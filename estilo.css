@@ -214,4 +214,7 @@ fieldset{
         width: 20%;
         margin-left: 5%;
     }
+    footer{
+        flex-direction: column;
+    }
 }
